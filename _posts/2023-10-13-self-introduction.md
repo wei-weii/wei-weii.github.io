@@ -1,7 +1,7 @@
 ---
 title: Self Introduction
 author: Wei
-date: 2023-10-14 22:10:00 -0700
+date: 2023-10-13 19:10:00 -0700
 categories: [Blogging]
 tags: [writing]
 author: wei
