@@ -49,8 +49,9 @@ You can find my CV [here](/assets/pdf/CV.pdf)
 
 # Projects
 
-- ## Visualizing the Three Kingdoms: The Lifespan, Network, and Homeland of Heroes and Beyond
+- ## [The Heroes, Villains and Beyond](https://weiwei-uvic.github.io/sanguo/) - *Surface hidden stories from the Records of the Three Kingdoms*
+
  
 As an **ongoing** and hobby-oriented project, I am collecting and maintaining a [data sheet](https://docs.google.com/spreadsheets/d/1c7hnmNIeD9X5W6P7Wx2E4V9_g49-ShKPHRUv_ad3ozw/edit?usp=sharing) that aims to log all individuals recorded in [Sanguozhi - Records of the Three Kingdoms](https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97), a Chinese history classic that chronicles China's history from 180 CE to 284 CE. You can find more info about it on the [Wiki Page](https://en.wikipedia.org/wiki/Records_of_the_Three_Kingdoms). At this moment, the data sheet has more than 1500 entries. In the future, I will turn it into a open-source project and maybe create a database for it.
-Furthermore, I am developing a portfolio that explore the potential of employing visualization approaches (`timeline`, `network`, `map`, and more) to synthesize and extract insights from Sanguozhi.
+Ultimately, I want to develop a portfolio that explore the potential of employing visualization approaches (`timeline`, `network`, `map`, and more) to synthesize and extract insights from this ancient history book.
 
