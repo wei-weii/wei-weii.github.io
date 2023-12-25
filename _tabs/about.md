@@ -21,7 +21,7 @@ You can find my CV [here](/assets/pdf/CV.pdf)
     <img src="https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/IEEEVIS23.png" alt="Image Description" style="width: 300px;">
     <div  style="margin-left: 20px;">
         <h2>Towards Autocomplete Strategies for Visualization Construction</h2>
-        <p><em>Wei Wei</em>, Samuel Huron, and Yvonne Jansen. IEEE VIS, 2023 <a href="https://doi.org/10.48550/arXiv.2308.02679" target="_blank">Paper</a></p>
+        <p><em>Wei Wei</em>, Samuel Huron, and Yvonne Jansen. IEEE VIS, 2023 <a href="https://ieeexplore.ieee.org/document/10360879" target="_blank">Paper</a></p>
     </div>
 </div>
 
