@@ -47,11 +47,14 @@ You can find my CV [here](/assets/pdf/CV.pdf)
 
 
 
-# Projects
+# Ongoing Projects
+
+- ## Characterizing the Selectivity of Visual Variables
+
+This project studies the selectivity of three visual variables and how we can utilize the knowledge we gain to design better visualizations. One typical phenomenon that comes from selectivity is the popout effect, which enables a distinct item (the target) to stand out from many others (elements) immediately. But we are still unclear about which factors and how they might affect the `selectivity`. This project aims to bridge this gap. Through a crow-sourcing study, we examine three visual variables (**Hue, Length, and Shape**) and three factors: **the total number of elements**, **the foveation of the target**, and **the spatial regularity  of all elements**.
 
 - ## [The Heroes, Villains and Beyond](https://weiwei-uvic.github.io/sanguo/) - *Surface hidden stories from the Records of the Three Kingdoms*
 
- 
-As an **ongoing** and hobby-oriented project, I am collecting and maintaining a [data sheet](https://docs.google.com/spreadsheets/d/1c7hnmNIeD9X5W6P7Wx2E4V9_g49-ShKPHRUv_ad3ozw/edit?usp=sharing) that aims to log all individuals recorded in [Sanguozhi - Records of the Three Kingdoms](https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97), a Chinese history classic that chronicles China's history from 180 CE to 284 CE. You can find more info about it on the [Wiki Page](https://en.wikipedia.org/wiki/Records_of_the_Three_Kingdoms). At this moment, the data sheet has more than 1500 entries. In the future, I will turn it into a open-source project and maybe create a database for it.
-Ultimately, I want to develop a portfolio that explore the potential of employing visualization approaches (`timeline`, `network`, `map`, and more) to synthesize and extract insights from this ancient history book.
+As a hobby-oriented project, I am collecting and maintaining a [data sheet](https://docs.google.com/spreadsheets/d/1c7hnmNIeD9X5W6P7Wx2E4V9_g49-ShKPHRUv_ad3ozw/edit?usp=sharing) that aims to log all individuals recorded in [Sanguozhi - Records of the Three Kingdoms](https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97), a Chinese history classic that chronicles China's history from 180 CE to 284 CE. You can find more info about the book on the [Wiki Page](https://en.wikipedia.org/wiki/Records_of_the_Three_Kingdoms). At this moment, the data sheet has more than 2400 entries. A detailed description of the dataset is [here](https://github.com/weiwei-uvic/sanguo/blob/main/README.md). In the future, I will turn it into a open-source project and create a database for it.
+The goal of the book is to develop an online tool that utilizes the potential of employing visualization approaches (`timeline`, `network`, `map`, and more) to synthesize and extract insights from this ancient history book, 
 
