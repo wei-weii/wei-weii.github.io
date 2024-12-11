@@ -7,14 +7,23 @@ tags: [color, command]
 author: wei
 render_with_liquid: true
 toc: false
-pin: false
+pin: true
 ---
 
-> Constants of colors.
+> Constants of colors:
 {: .prompt-info }
 
 <span style="color:#880808">Blood Red: </span> #880808
 
+> Keyboard shortcuts:
+To open emoji keyboard:
+```
+Win + .
+```
+To enable auto-wrap in a text editor:
+```
+Alt + z
+```
 > Terminal commands:
 {: .prompt-info }
 To host a server, using python, which loads local files for web testing:
