@@ -36,7 +36,7 @@ Personally speaking, from the perspective of my research interest - visualizatio
 
 **A few related terms**:
 
-![Figure 1. Feature search (left) vs. Conjunction search (right). ](/assets/img/postImgs/featuresearch.png) 
+![Figure 1. Feature search (left) vs. Conjunction search (right). ](https://wei-weii.github.io/assets/img/postImgs/featuresearch.png) 
 <div style="text-align:center;">
 <p style="font-style:italic;">Figure 1. Feature search (left) vs. Conjunction search (right).</p>
 </div>
