@@ -34,3 +34,8 @@ To host a local jekyll (E.g., to test this website):
 ```
 bundle exec jekyll serve
 ```
+
+> Windows run:
+```
+cleanmgr  // to call disk cleaner
+```

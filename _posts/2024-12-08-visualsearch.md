@@ -1,5 +1,5 @@
 ---
-title: Visual Search in A Nutshell
+title: Wei's Notes on Visual Search
 author: Wei
 date: 2024-12-08 21:19:00 -0700
 categories: [Blogging]
@@ -51,13 +51,14 @@ Personally speaking, from the perspective of my research interest - visualizatio
 - <span style="color:#FF7043">Covert attention</span>. "used to describe attending without looking, often colloquially termed looking out of the corner of the eye"
 - <span style="color:#FF7043">Overt attention</span>. "the term we will use to describe attending by means of looking". The definition of covert attention and overt attention are from [*active vision The Psychology of Looking and Seeing*](https://doi.org/10.1093/acprof:oso/9780198524793.001.0001), page 3.
 - <span style="color:#FF7043">Homogeneous / heterogeneous search</span>. Whether the distractors are identical to each other (Homogeneous) or not (heterogeneous).
+- <span style="color:#FF7043">Bottom-up / Top-down guidence</span>.
 
 
 **Two theories**:
 
 "While Feature Intergration Theory saw two types of search—parallel and serial—Guided search saw two ends of a continuum of guidance"(page 20, [Oxford Handbook of Attention](https://doi.org/10.1093/oxfordhb/9780199675111.013.002)) 
 
-- <span style="color:#9c755f">FIT (Feature Integration Theory)</span>. FIT is the most influential theory that tries to model visual search. Proposed by Anne Treisman (doi:10.1037/0033-295X.95.1.15), _FIT claims that a set of *features* are processed (more specifically, registered to a feature map) "early, automatically and in parallel across the visual field". This is then followed by a "binding" stage that "glues" features together into specific perceptual objects, which requires focused attention and is processed serially and is self-terminating_. Identified *features* include color, size, orientation, motion, curvature. (page 28, [*The Handbook of Attention*](https://doi.org/10.7551/mitpress/10033.003.0004)), which Treisman argued that could be processed 'preattentively', in parallel. A detailed and comprehensive summary of _features_ can be found in the Chapter 2 of the [Oxford Handbook of Attention](https://doi.org/10.1093/oxfordhb/9780199675111.001.0001).   Thus a visual search task will be accomplished in a fast way if the target-distractors difference is defined by a *feature* (feature search). Otherwise (conjunction search), the search will be serial and slow.  
+- <span style="color:#9c755f">FIT (Feature Integration Theory)</span>. FIT is the most influential theory that tries to model visual search. Proposed by [Anne Treisman] (https://doi.org/10.1037/0033-295X.95.1.15), _FIT claims that a set of *features* are processed (more specifically, registered to a feature map) "early, automatically and in parallel across the visual field". This is then followed by a "binding" stage that "glues" features together into specific perceptual objects, which requires focused attention and is processed serially and is self-terminating_. Identified *features* include color, size, orientation, motion, curvature. (page 28, [*The Handbook of Attention*](https://doi.org/10.7551/mitpress/10033.003.0004)), which Treisman argued that could be processed 'preattentively', in parallel. A detailed and comprehensive summary of _features_ can be found in the Chapter 2 of the [Oxford Handbook of Attention](https://doi.org/10.1093/oxfordhb/9780199675111.001.0001).   Thus a visual search task will be accomplished in a fast way if the target-distractors difference is defined by a *feature* (feature search). Otherwise (conjunction search), the search will be serial and slow.  
 
 
 - <span style="color:#9c755f">Guided Search</span>. Guided search is proposed by [Wolfe et al.](https://doi.org/10.1037/0096-1523.15.3.419) The original version of guided search borrows the two-steps logic of FIT theory. The key idea of guided search is that "preattentive feature information could be used to 'guide' the serial deployment of attention". _The main difference between guided search an FIT is "FIT proposed a dichotomy between parallel and serial search tasks, GS proposed a continuum based on the effectiveness of guidance_."(see [paper](https://doi.org/10.3758/s13423-020-01859-9)). Wolfe and his colleagues continue to refine the guided search theory, primarily by updating the sources of guidance. The newest one is [Guided Search 6.0](https://doi.org/10.3758/s13423-020-01859-9), published in 2021. Nonetheless, preattentive features remain as the number one form of guidence.
