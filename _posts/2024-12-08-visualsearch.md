@@ -16,7 +16,7 @@ Looking for a specfic item in a visual scene (page 105, [*active vision The Psyc
 (...) an observer looks for one or more targets in a display containing some distractor items (page 11, [*Oxford Handbook of Attention*](https://doi.org/10.1093/oxfordhb/9780199675111.013.002)).
 
 ## Why is visual search (important)?
-Humans are uncapable to process all the visual information of a visual stimulus at the same time (page 27, [*The Handbook of Attention*](https://doi.org/10.7551/mitpress/10033.003.0004)). In most cases, we want to extract the gist or the most interesting parts in a snap, i.e., find the 'target' as fast as possile. 
+Humans are incapable to process all the visual information of a visual stimulus at the same time (page 27, [*The Handbook of Attention*](https://doi.org/10.7551/mitpress/10033.003.0004)). In most cases, we want to extract the gist or the most interesting parts in a snap, i.e., find the 'target' as fast as possible. 
 
 Psychologically speaking, by studying visual search, psychologists are interested in:
 

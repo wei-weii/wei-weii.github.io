@@ -16,7 +16,7 @@ timezone: America/Vancouver
 
 title: Wei Wei # the main title
 
-tagline: KEEP ANGRY KEEP HUNGRY BE VAST BE SAD.
+tagline: KEEP ANGRY, KEEP HUNGR;   BE VAST, BE SAD.
 
 description: >- # used by seo meta and the atom feed
   Wei's domain 
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/selfieBWsmall.png"
+avatar:  "https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/comic.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
