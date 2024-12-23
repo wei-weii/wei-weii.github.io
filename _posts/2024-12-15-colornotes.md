@@ -1,6 +1,6 @@
 ---
 title: Wei's Notes on Color
-author: Wei
+author: wei
 date: 2024-12-15 16:17:00 -0700
 categories: [Blogging]
 tags: [color]
@@ -8,6 +8,7 @@ render_with_liquid: true
 toc: false
 pin: false
 ---
+
 
 ## Color
 "Color is an attribute of visual sensation"(page 58, [*Color Apperance Models, Third Edition*](https://doi.org/10.1002/9781118653128)). 

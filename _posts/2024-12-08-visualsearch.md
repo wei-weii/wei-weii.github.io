@@ -1,6 +1,5 @@
 ---
 title: Wei's Notes on Visual Search
-author: Wei
 date: 2024-12-08 21:19:00 -0700
 categories: [Blogging]
 tags: [research, psychology]
