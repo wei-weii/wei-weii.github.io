@@ -1,5 +1,5 @@
 ---
-title: Wei's Notes on Color
+title: Notes on Color
 author: wei
 date: 2024-12-15 16:17:00 -0700
 categories: [Blogging]
