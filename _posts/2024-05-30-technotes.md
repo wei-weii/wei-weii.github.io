@@ -39,3 +39,9 @@ bundle exec jekyll serve
 ```
 cleanmgr  // to call disk cleaner
 ```
+
+> R install package from source:
+```
+// First, go to the directory where you store the downloaded package file
+R CMD INSTALL ggplot2_3.5.1.tar.gz  // change ggplot2_3.5.1.tar.gz to your package filename
+```
