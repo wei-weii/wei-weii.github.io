@@ -1,5 +1,5 @@
 ---
-title: Bayesian Data Analysis
+title: Quantitative Data Analysis
 author: wei
 date: 2025-04-01 15:48:00 -0700
 categories: [Blogging]

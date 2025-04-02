@@ -1,5 +1,5 @@
 ---
-title: Whats in Research
+title: "Whats" in Research
 author: wei
 date: 2025-02-12 15:52:00 -0700
 categories: [Blogging]
