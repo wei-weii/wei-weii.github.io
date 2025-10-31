@@ -21,7 +21,7 @@ You can find my CV [here](/assets/pdf/CV.pdf)
     <img src="https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/PacificVIS26.png" alt="Image Description" style="width: 300px;">
     <div  style="margin-left: 20px;">
         <h2>Locatability and Locatability Robustness of Visual Variables in Single Target Localization</h2>
-        <p><em>Wei Wei</em>, Miguel A. Nacenta, Michelle F. Miranda and Charles Perin. IEEE TVCG journal paper track at IEEE PacificVis 2026, 2025. Conditionally accepted.
+        <p><em>Wei Wei</em>, Miguel A. Nacenta, Michelle F. Miranda and Charles Perin. IEEE TVCG journal paper track at IEEE PacificVis, 2026. Conditionally accepted.</p>
     </div>
 </div>
 
@@ -29,7 +29,7 @@ You can find my CV [here](/assets/pdf/CV.pdf)
     <img src="https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/altVIS25.png" alt="Image Description" style="width: 300px;">
     <div  style="margin-left: 20px;">
         <h2>The Fuzzy Front Ends: Reflections on the Never-Ending Story of Visualization Co-Design</h2>
-        <p><em>Wei Wei</em>, Foroozan Daneshzand, Zezhong Wang, Erica Mattson, Charles Perin, and Sheelagh Carpendale. alt.VIS at IEEE VIS 2025, 2025. <a href="https://altvis.github.io/#fuzzy-front-ends" target="_blank">Paper</a></p>
+        <p><em>Wei Wei</em>, Foroozan Daneshzand, Zezhong Wang, Erica Mattson, Charles Perin, and Sheelagh Carpendale. alt.VIS at IEEE VIS, 2025 <a href="https://altvis.github.io/\#fuzzy-front-ends" target="_blank">Paper</a></p>
     </div>
 </div>
 
@@ -46,7 +46,7 @@ You can find my CV [here](/assets/pdf/CV.pdf)
     <img src="https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/TVCG20.png" alt="Image Description" style="width: 425px;">
     <div  style="margin-left: 20px;">
         <h2>Touch and Beyond: Comparing Physical and Virtual Reality Visualizations</h2>
-        <p>Danyluk Kurtis, Teoman Tomo Ulusoy, <em>Wei Wei</em>, and Wesley Willett. IEEE Transactions on Visualization and Computer Graphics (2020) <a href="https://doi.org/10.1109/TVCG.2020.3023336" target="_blank">Paper</a></p>
+        <p>Danyluk Kurtis, Teoman Tomo Ulusoy, <em>Wei Wei</em>, and Wesley Willett. IEEE Transactions on Visualization and Computer Graphics, 2020 <a href="https://doi.org/10.1109/TVCG.2020.3023336" target="_blank">Paper</a></p>
     </div>
 </div>
 
