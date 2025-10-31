@@ -11,31 +11,35 @@ pin: false
 
 
 ## Wei's Research Notes
+In this blog, I want to build a ultra-simplified wikipedia for some common concepts and knowledge in visualization research or paper writing, in the form of answering the question **What is X?** and **How to use X?** As you may have noticed, it's not completed, a lot of questions are to be answered:\).
+
 ### Study Type
-#### What is Co-design Study
+#### What is Co-design Study?
+Co-design is a design approach that emphasizes the integration of domain knowledge and iterative prototyping through collaboration between diverse stakeholders.  [*It refers to the collective creativity of collaborating designers \[...\]and people not trained in design working together in the design development process.*](https://www.tandfonline.com/doi/full/10.1080/15710880701875068). 
+#### What is Participatory Study?
 
-#### What is Participatory Study
-
-#### What is Formative Study
+#### What is Formative Study?
 A formative study in Computer Science refers to a small-scale research method conducted during product development to identify issues, gather user feedback, and make improvements based on findings without providing metrics or statistics.
 
-#### What is Speculative Study
+#### What is Speculative Study?
+[Speculative design: crafting the speculation](https://doi.org/10.1080/14626268.2013.767276)
+
 
 ### Qualitative Data Analysis
 
-#### What is Thematic Analysis
+#### What is Thematic Analysis?
 >Thematic analysis is a method for developing, analysing and interpreting patterns across a qualitative dataset, which involves systematic processes of data coding and to develop themes - themes are your ultimate analytic purpose (page 4 [*Thematic Analysis: A Practical Guide*](https://uk.sagepub.com/en-gb/eur/thematic-analysis/book248481)).
-#### What is Open Coding
-#### What is Grounded Theory
-#### What is Diffractive Qualitative Data Analysis
+#### What is Open Coding?
+#### What is Grounded Theory?
+#### What is Diffractive Qualitative Data Analysis?
 Diffractive qualitative analysis is a method that utilized multiple theoretical readings of data to generate new insights and perspectives, often exploring the complexities of lived experiences and challenging traditional interpretations.
 
-#### What is autoethnography
+#### What is autoethnography?
 Autoethnography is [a first-person research method that intertwines personal experiences with academic inquiry](https://doi.org/10.1145/3613904.3642355).
 It utilizes the researcher’s personal experience to describe and systematically analyse cultural or social phenomena, thereby positioning the researcher simultaneously as the subject of the inquiry and as the researcher (ibid.). A relevant concept is autobiographical design, in which researchers generate and evaluate novel artefacts through personal usage.
 
 
-## How to Use Punctuations
+## How to Use Punctuations?
 ### Quotation Mark
 Double quotation marks are used for direct quotations and titles of compositions such as books, plays, and movies. They also can be used to indicate irony and introduce an unfamiliar term or nickname.
 
@@ -75,7 +79,3 @@ Place a period outside a closing parenthesis if the material inside is not a sen
 
 Avoid the phrase "and/or."
 
-
-
-## Mistakes to Avoid In Future
-1. Go through study design to check all potential confounds (the element arrangement of the popout study)
