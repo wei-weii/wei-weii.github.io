@@ -109,7 +109,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 10
+paginate: 12
 paginate_path: "/blog/page:num/"
 # The base URL of your site
 baseurl: ""
