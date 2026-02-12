@@ -25,6 +25,9 @@ A formative study in Computer Science refers to a small-scale research method co
 [Speculative design: crafting the speculation](https://doi.org/10.1080/14626268.2013.767276)
 
 
+#### What is staircase method?
+See [*The Staircase-Method in Psychophysics*](https://doi.org/10.2307/1419876)
+
 ### Qualitative Data Analysis
 
 #### What is Thematic Analysis?
