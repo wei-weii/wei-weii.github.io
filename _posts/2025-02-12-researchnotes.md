@@ -26,7 +26,34 @@ A formative study in Computer Science refers to a small-scale research method co
 
 
 #### What is staircase method?
-See [*The Staircase-Method in Psychophysics*](https://doi.org/10.2307/1419876)
+
+Some important notes about staircase (more details can be found [*The Staircase-Method in Psychophysics*](https://doi.org/10.2307/1419876)).
+
+To design a staircase, there are four considerations/decisions that need to be done before conduct the study:
+1. Where to start;
+2. How large the steps are;
+3. When the series should be stopped;
+4. When the series should be modified.
+
+The main disadvantage of a simple staircase design is that trials are interdepedent. This is because participants will not take long to become aware of the study procedure, as it is easy to notice that the stimulus intensity (signal) increases whenever they get it wrong, and vice visa.
+
+A common way to mitigate this interdepedency is interleaving two or more staircases into one study (or one block). By showing trials from different staircases in turn (or randomly), participants won't be able to expect the change of next trial based on the answer of current trial.
+
+Why/why not provide feedback in experiments?
+
+This is not a trival question and it is not only important for staircase studies. 
+
+Providing trial-by-trial feedback can:
+
+1. Improve the overall performance (perceptual learning)
+2. Change decision strategies (criteria)
+3. Increase engagement and reduce frustration
+
+When should give feedback:
+
+1. Normally, feedback *should almost always* be given in practice/training session.
+2. When learning is part of the research focus
+3. When task is very difficult or ambiguous
 
 ### Qualitative Data Analysis
 
