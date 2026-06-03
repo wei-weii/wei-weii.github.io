@@ -16,6 +16,7 @@ pin: true
 <span style="color:#880808">Blood Red: </span> #880808
 
 > Keyboard shortcuts:
+
 To open emoji keyboard:
 ```
 Win + .
@@ -24,7 +25,9 @@ To enable auto-wrap in a text editor:
 ```
 Alt + z
 ```
+
 > Terminal commands:
+
 {: .prompt-info }
 To host a server, using python, which loads local files for web testing:
 ```
@@ -34,8 +37,13 @@ To host a local jekyll (E.g., to test this website):
 ```
 bundle exec jekyll serve
 ```
+To do system file check:
+```
+sfc/scannow
+```
 
 > Windows run:
+
 ```
 cleanmgr  // to call disk cleaner
 ```
