@@ -48,6 +48,15 @@ sfc/scannow
 cleanmgr  // to call disk cleaner
 ```
 
+> Common bash commands
+
+go up one level: cd ..
+go to home directory: cd ~
+create a folder: mkdir foldername
+create a file: touch file.txt
+delete a file: rm file.txt
+delete a folder recursively: rm -r folder
+
 > R install package from source:
 ```
 // First, go to the directory where you store the downloaded package file
