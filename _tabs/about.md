@@ -21,7 +21,7 @@ You can find my CV [here](/assets/pdf/CV.pdf)
     <img src="https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/PacificVIS26.png" alt="Image Description" style="width: 300px; height: auto; object-fit: contain;">
     <div  style="margin-left: 20px;">
         <h2>Locatability and Locatability Robustness of Visual Variables in Single Target Localization</h2>
-        <p><em>Wei Wei</em>, Miguel A. Nacenta, Michelle F. Miranda, and Charles Perin. IEEE TVCG journal paper, presented at IEEE PacificVis, 2026 <a href="http://dx.doi.org/10.1109/TVCG.2026.3694442" target="_blank">Paper</a></p>
+        <p><em>Wei Wei</em>, Miguel A. Nacenta, Michelle F. Miranda, and Charles Perin. IEEE TVCG journal paper, presented at IEEE PacificVis, 2026 <a href="http://doi.org/10.1109/TVCG.2026.3694442" target="_blank">Paper</a></p>
     </div>
 </div>
 
