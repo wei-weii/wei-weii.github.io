@@ -50,12 +50,14 @@ cleanmgr  // to call disk cleaner
 
 > Common bash commands
 
-go up one level: cd ..
-go to home directory: cd ~
-create a folder: mkdir foldername
-create a file: touch file.txt
-delete a file: rm file.txt
-delete a folder recursively: rm -r folder
+```
+cd .. //go up one level
+cd ~ //go to home directory
+mkdir foldername //create a folder
+touch file.txt //create a file
+rm file.txt //delete a file
+rm -r folder //delete a folder recursively
+```
 
 > R install package from source:
 ```
