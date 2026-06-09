@@ -10,57 +10,73 @@ toc: false
 pin: true
 ---
 
-> Constants of colors:
+> Constants of colors
 {: .prompt-info }
 
 <span style="color:#880808">Blood Red: </span> #880808
 
-> Keyboard shortcuts:
+> Keyboard shortcuts
+{: .prompt-info }
 
-To open emoji keyboard:
 ```
+// To open emoji keyboard:
 Win + .
-```
-To enable auto-wrap in a text editor:
-```
+
+// To enable auto-wrap in a text editor:
 Alt + z
 ```
 
 > Terminal commands:
-
 {: .prompt-info }
+
+```
 To host a server, using python, which loads local files for web testing:
-```
 python -m http.server
-```
-To host a local jekyll (E.g., to test this website):
-```
+
+// To host a local jekyll (E.g., to test this website):
 bundle exec jekyll serve
-```
-To do system file check:
-```
+
+// To do system file check:
+
 sfc/scannow
 ```
 
 > Windows run:
+{: .prompt-info }
 
 ```
-cleanmgr  // to call disk cleaner
+// to call disk cleaner
+cleanmgr  
 ```
 
 > Common bash commands
+{: .prompt-info }
 
 ```
-cd .. //go up one level
-cd ~ //go to home directory
-mkdir foldername //create a folder
-touch file.txt //create a file
-rm file.txt //delete a file
-rm -r folder //delete a folder recursively
+// go up one level:
+cd .. 
+
+// go to home directory:
+cd ~ 
+
+// create a folder:
+mkdir foldername 
+
+// create a file:
+touch file.txt
+
+//delete a file:
+rm file.txt 
+
+//delete a folder recursively
+rm -r folder 
 ```
 
-> R install package from source:
+> R:
+{: .prompt-info }
+
+Install package from source
 ```
-// First, go to the directory where you store the downloaded package file
+// First, go to the directory where you store the downloaded package file, then:
 R CMD INSTALL ggplot2_3.5.1.tar.gz  // change ggplot2_3.5.1.tar.gz to your package filename
 ```

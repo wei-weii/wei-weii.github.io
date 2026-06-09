@@ -5,28 +5,61 @@ date: 2025-02-12 15:52:00 -0700
 categories: [Blogging]
 tags: [research]
 render_with_liquid: true
-toc: false
-pin: false
+toc: true
+pin: true
 ---
 
 
-## Wei's Research Notes
+# Wei's Research Notes
 In this blog, I want to build a ultra-simplified wikipedia for some common concepts and knowledge in visualization research or paper writing, in the form of answering the question **What is X?** and **How to use X?** As you may have noticed, it's not completed, a lot of questions are to be answered:\).
 
-### Study Type
-#### What is Co-design Study?
-Co-design is a design approach that emphasizes the integration of domain knowledge and iterative prototyping through collaboration between diverse stakeholders.  [*It refers to the collective creativity of collaborating designers \[...\]and people not trained in design working together in the design development process.*](https://www.tandfonline.com/doi/full/10.1080/15710880701875068). 
-#### What is Participatory Study?
+## Study Design 
 
-#### What is Formative Study?
+### Why should we do block design instead of just randomizing all trials all the time
+1. The order effects
+
+    You cannot control order effect with randomization, which spreads order effects but doesn't eliminate them. Suppose condition A is harder than B. A full randomization might place more A early, which will make the results of A worse than it should be.
+
+    Counterbalanced block design makes sure that: 
+    - **Each condition appears equally often in early, middle, and late positions**. 
+    - **Practice/fatigue is orthogonal to condition**
+
+2. The carryover effects
+   
+    Some conditions/manipulations may change the state of participant (e.g., the way they think, the emotional priming). In these cases, **trials are not independent**, as if condition A changes perception or emotion strongly, the immediately following B trial is contaminated. Thus blocking can help 
+    - minimize rapid switching; 
+    - allow state to stabilize; 
+    - reduce cross-condition contamination.
+
+3. Statistical efficiency
+
+    Block also reduces within-subject variance as it reduces noise from switching and help participants maintain one strategy.
+
+### Why or why not provide feedback in experiments?
+Providing trial-by-trial feedback can:
+1. Improve the overall performance (perceptual learning);
+2. Change decision strategies (criteria);
+3. Increase engagement and reduce frustration.
+
+Normally, feedback should be given when:
+1. The trials are for practicing or training;
+2. The study's focus is about understanding how people learn;
+3. The task is very diffcult or complex or ambiguous.
+
+## Study Type
+### What is Co-design Study?
+Co-design is a design approach that emphasizes the integration of domain knowledge and iterative prototyping through collaboration between diverse stakeholders.  [*It refers to the collective creativity of collaborating designers \[...\]and people not trained in design working together in the design development process.*](https://www.tandfonline.com/doi/full/10.1080/15710880701875068). 
+
+### What is Participatory Study?
+
+### What is Formative Study?
 A formative study in Computer Science refers to a small-scale research method conducted during product development to identify issues, gather user feedback, and make improvements based on findings without providing metrics or statistics.
 
-#### What is Speculative Study?
+### What is Speculative Study?
 [Speculative design: crafting the speculation](https://doi.org/10.1080/14626268.2013.767276)
 
 
-#### What is staircase method?
-
+### What is staircase method?
 Some important notes about staircase (more details can be found [*The Staircase-Method in Psychophysics*](https://doi.org/10.2307/1419876)).
 
 To design a staircase, there are four considerations/decisions that need to be done before conduct the study:
@@ -37,34 +70,18 @@ To design a staircase, there are four considerations/decisions that need to be d
 
 The main disadvantage of a simple staircase design is that trials are interdepedent. This is because participants will not take long to become aware of the study procedure, as it is easy to notice that the stimulus intensity (signal) increases whenever they get it wrong, and vice visa.
 
-A common way to mitigate this interdepedency is interleaving two or more staircases into one study (or one block). By showing trials from different staircases in turn (or randomly), participants won't be able to expect the change of next trial based on the answer of current trial.
+A common way to mitigate this interdepedency is **interleaving** two or more staircases into one study (or one block). By showing trials from different staircases in turn (or randomly), participants won’t be able to expect the change of next trial based on the answer of current trial.
 
-Why/why not provide feedback in experiments?
+## Qualitative Data Analysis
 
-This is not a trival question and it is not only important for staircase studies. 
-
-Providing trial-by-trial feedback can:
-
-1. Improve the overall performance (perceptual learning)
-2. Change decision strategies (criteria)
-3. Increase engagement and reduce frustration
-
-When should give feedback:
-
-1. Normally, feedback *should almost always* be given in practice/training session.
-2. When learning is part of the research focus
-3. When task is very difficult or ambiguous
-
-### Qualitative Data Analysis
-
-#### What is Thematic Analysis?
+### What is Thematic Analysis?
 >Thematic analysis is a method for developing, analysing and interpreting patterns across a qualitative dataset, which involves systematic processes of data coding and to develop themes - themes are your ultimate analytic purpose (page 4 [*Thematic Analysis: A Practical Guide*](https://uk.sagepub.com/en-gb/eur/thematic-analysis/book248481)).
-#### What is Open Coding?
-#### What is Grounded Theory?
-#### What is Diffractive Qualitative Data Analysis?
+### What is Open Coding?
+### What is Grounded Theory?
+### What is Diffractive Qualitative Data Analysis?
 Diffractive qualitative analysis is a method that utilized multiple theoretical readings of data to generate new insights and perspectives, often exploring the complexities of lived experiences and challenging traditional interpretations.
 
-#### What is autoethnography?
+### What is autoethnography?
 Autoethnography is [a first-person research method that intertwines personal experiences with academic inquiry](https://doi.org/10.1145/3613904.3642355).
 It utilizes the researcher’s personal experience to describe and systematically analyse cultural or social phenomena, thereby positioning the researcher simultaneously as the subject of the inquiry and as the researcher (ibid.). A relevant concept is autobiographical design, in which researchers generate and evaluate novel artefacts through personal usage.
 
