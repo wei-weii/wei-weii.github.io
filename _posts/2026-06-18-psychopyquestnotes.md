@@ -30,7 +30,11 @@ Currently, there are following three problems in *the Instruction*:
     > Solution
     {: .prompt-tip }    
     **Don't use the *nReps* that Psychopy Builder provides, it won't work. There are two solutions:** i) pass *maxTrials* as an additional parameter to the 'nReps' field in the stair handler, as suggested by [this post](https://discourse.psychopy.org/t/quest-loop-not-terminating-online/43135). However, this method will set the same max number of trials to all your staircases if you have multiple staircases interleaved. ii) add one more column of *maxTrials* to your condition file, as shown below (the right most column ):
-    ![The example condition file for interleaved QUEST staircases design](https://wei-weii.github.io/assets/img/postImgs/questCondition.png)
+
+    | label                    |...| stopInterval          | maxTrials |
+    | :--------------------------- | :--------------- | :--------------- | ------: |
+    | staircase1         |...| 0.3     | 20 |
+    | staircase2               |...| 0.3    |      30 |
 
     This method enables you to set different max trial numbers to different staircases that are interleaved together, if needed. However, setting  individual *maxTrials* in this way will cause the loop (i.e., the loop that you interleave staircases) doesn't know when to stop. I add the following lines of code in the loop to help terminate the loop:
 
@@ -84,4 +88,4 @@ Currently, there are following three problems in *the Instruction*:
     > Solution
     {: .prompt-tip }
 
-    You can use *stopInterval* to terminate your staircase. Just add it to your condition file. As shown in the screenshot above.
+    You can use *stopInterval* to terminate your staircase. Just add it to your condition file. As shown in the table above.
