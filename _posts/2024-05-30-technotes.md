@@ -2,7 +2,7 @@
 title: Wei's Constants
 author: Wei
 date: 2024-05-30 20:27:00 -0700
-categories: [Blogging]
+categories: [Blogging, Cheatsheet]
 tags: [color, command]
 author: wei
 render_with_liquid: true

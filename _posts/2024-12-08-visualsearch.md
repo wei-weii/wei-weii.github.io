@@ -1,7 +1,7 @@
 ---
 title: Notes on Visual Search
 date: 2024-12-08 21:19:00 -0700
-categories: [Blogging]
+categories: [Blogging, Research]
 tags: [research, psychology]
 author: wei
 render_with_liquid: true

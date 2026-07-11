@@ -2,7 +2,7 @@
 title: Notes on Color
 author: wei
 date: 2024-12-15 16:17:00 -0700
-categories: [Blogging]
+categories: [Blogging, Research]
 tags: [color]
 render_with_liquid: true
 toc: false

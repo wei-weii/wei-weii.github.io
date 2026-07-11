@@ -2,7 +2,7 @@
 title: What is ...
 author: wei
 date: 2025-02-12 15:52:00 -0700
-categories: [Blogging]
+categories: [Blogging, Research]
 tags: [research]
 render_with_liquid: true
 toc: true
@@ -76,8 +76,11 @@ A common way to mitigate this interdepedency is **interleaving** two or more sta
 
 ### What is Thematic Analysis?
 >Thematic analysis is a method for developing, analysing and interpreting patterns across a qualitative dataset, which involves systematic processes of data coding and to develop themes - themes are your ultimate analytic purpose (page 4 [*Thematic Analysis: A Practical Guide*](https://uk.sagepub.com/en-gb/eur/thematic-analysis/book248481)).
+
 ### What is Open Coding?
+
 ### What is Grounded Theory?
+
 ### What is Diffractive Qualitative Data Analysis?
 Diffractive qualitative analysis is a method that utilized multiple theoretical readings of data to generate new insights and perspectives, often exploring the complexities of lived experiences and challenging traditional interpretations.
 

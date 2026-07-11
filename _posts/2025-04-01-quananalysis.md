@@ -2,7 +2,7 @@
 title: Notes on Quantitative Data Analysis
 author: wei
 date: 2025-04-01 15:48:00 -0700
-categories: [Blogging]
+categories: [Blogging, Research]
 tags: [research]
 render_with_liquid: true
 math: true
