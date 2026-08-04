@@ -81,7 +81,7 @@ The core of all the mess above is a simple idea: we have some info of the value(
 
 
 ### 2.2 Practice (with jags, MCMC, and R. The content is based on [*Doing Bayesian Data Analysis*](https://www.oreilly.com/library/view/doing-bayesian-data/9780124058880/) by John Kruscheke) 
-And [Bayesian analysis reporting guidelines]( https://jkkweb.sitehost.iu.edu/BARG.html) details how to report Bayesian stats in research papers.
+And [Bayesian analysis reporting guidelines](https://doi.org/10.1038/s41562-021-01177-7) details how to report Bayesian stats in research papers.
 
 Some notes from the book:
 - MCMC: An approach that samples a large number of representative values from a distribution

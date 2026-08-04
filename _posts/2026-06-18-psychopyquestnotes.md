@@ -26,7 +26,7 @@ An interleaved staircase design is handled by the 'MultiStairHandler' class ([so
 
 Currently, there are following three problems in *the Instruction*:
 
-1. How to correctly terminate a staricase by setting a max number of trials? 
+1. **How to correctly terminate a staricase by setting a max number of trials?**
     > Solution
     {: .prompt-tip }    
     **Don't use the *nReps* that Psychopy Builder provides, it won't work. There are two solutions:** i) pass *maxTrials* as an additional parameter to the 'nReps' field in the stair handler, as suggested by [this post](https://discourse.psychopy.org/t/quest-loop-not-terminating-online/43135). However, this method will set the same max number of trials to all your staircases if you have multiple staircases interleaved. ii) add one more column of *maxTrials* to your condition file, as shown below (the right most column ):
@@ -64,7 +64,7 @@ Currently, there are following three problems in *the Instruction*:
     which is contradictory. But this contradiction does not matter at all, because *nTrials* is actually not used in js_QuestHandler when the epxeriment intantiates a QUEST staircase, which means no matter what value you give for *nReps*, it has **NO EFFECT** on how many trials the staircase will run. As [people have found](https://discourse.psychopy.org/t/ending-a-staircase-after-a-maximum-number-of-trials/35276), the **actual maximum** of trials is controlled by variable *maxTrials*. Therefore, if you need to control the number of trials of your staircase, you need to use *maxTrials*, not *nReps* or *nTrials*. 
 
 
-2. How to set the min and max value for your staircase level? 
+2. **How to set the min and max value for your staircase level?** 
     > Solution
     {: .prompt-tip }
     
@@ -84,7 +84,7 @@ Currently, there are following three problems in *the Instruction*:
     The Quest will update next suggesting value based on the previous level (and priors). With the code above, we make sure the level is within the constrain and infor Quest what is the actual value we test. 
 
 
-3. How to terminate a QUEST staircase based on a certain confidence internval?
+3. **How to terminate a QUEST staircase based on a certain confidence internval?**
     > Solution
     {: .prompt-tip }
 

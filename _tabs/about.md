@@ -21,8 +21,16 @@ You can find my CV [here](/assets/pdf/CV.pdf)
     <img src="https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/PacificVIS26.png" alt="Image Description" style="width: 300px; height: auto; object-fit: contain;">
     <div  style="margin-left: 20px;">
         <h2>Locatability and Locatability Robustness of Visual Variables in Single Target Localization</h2>
-        <p><em>Wei Wei</em>, Miguel A. Nacenta, Michelle F. Miranda, and Charles Perin. IEEE TVCG journal paper, presented at IEEE PacificVis, 2026 <a href="https://ieeexplore.ieee.org/document/11523618" target="_blank">Paper</a></p>
+        <p><em>Wei Wei</em>, Miguel A. Nacenta, Michelle F. Miranda, and Charles Perin. IEEE TVCG, 2026 <a href="https://ieeexplore.ieee.org/document/11523618" target="_blank">Paper</a></p>
     </div> 
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/mosaic-analysis.jpg" alt="Image Description" style="width: 300px; height: auto; object-fit: contain;">
+    <div  style="margin-left: 20px;">
+        <h2>This is not a speculation, this is the reality: Reflection on Speculative Design Workshop in HCI & Design Research</h2>
+        <p> Samuel Huron, <em>Wei Wei</em>, Wen-Jie Tseng, Elise Bonnail, Eleonore Genest. Workshop in HCI & Design Research, 2026 <a href="https://hal.science/hal-05554679v1" target="_blank">Paper</a></p>
+    </div>
 </div>
 
 <div style="display: flex; align-items: center;">
