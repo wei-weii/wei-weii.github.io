@@ -1,12 +1,12 @@
 ---
-title: Notes on Pilosphy of Science
+title: Notes on Philosophy of Science
 author: wei
 date: 2026-07-12 14:40:00 +0200
 categories: [Blogging, Research]
 tags: [research]
 render_with_liquid: true
 toc: true
-pin: true
+pin: false
 ---
 
 This blog is in draft stage. 
