@@ -18,6 +18,14 @@ You can find my CV [here](/assets/pdf/CV.pdf)
 # Publications
 
 <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/darksidesModel.png" alt="Image Description" style="width: 250px; height: auto; flex-shrink:0;object-fit: contain;">
+    <div  style="margin-left: 20px;">
+        <h2><a href="https://doi.org/10.48550/arXiv.2608.14364" target="_blank">Epistemic Tensions: Reframing A Visualization Co-Design through Entanglement Theory</a></h2>
+        <p><em><b>Wei Wei</b></em>, Foroozan Daneshzand, Zezhong Wang, Erica Mattson, Jenny Farkas, Sarah Storteboom, Charles Perin, and Sheelagh Carpendale. BELIV, 2026 </p>
+    </div> 
+</div>
+
+<div style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/antimelee/media-Pages/image/PacificVIS26.png" alt="Image Description" style="width: 250px; height: auto; flex-shrink:0;object-fit: contain;">
     <div  style="margin-left: 20px;">
         <h2><a href="https://ieeexplore.ieee.org/document/11523618" target="_blank">Locatability and Locatability Robustness of Visual Variables in Single Target Localization</a></h2>
