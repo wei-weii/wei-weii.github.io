@@ -125,7 +125,7 @@ Place a period outside a closing parenthesis if the material inside is not a sen
 **If removing a parenthetical note changes the meaning of the sentence, it should not be in parentheses.**
 
 ### Slash
-'/' is a slash, '\' is a backslash. A slash is used in text to separate alternatives (good/evil) and to separate lines of poetry. Do not use slash to separate alternatives when using "and" or "or" would suffice. 
+'/' is a slash, '\\' is a backslash. A slash is used in text to separate alternatives (good/evil) and to separate lines of poetry. Do not use slash to separate alternatives when using "and" or "or" would suffice. 
 
 Avoid the phrase "and/or."
 

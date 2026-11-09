@@ -9,7 +9,9 @@ has_tail: false
 ---
 
 # Hello:\) I am Wei
-I am a PhD student in the [VIXI lab](https://vixi.cs.uvic.ca/), University of Victoria, under the supervision of Prof. Charles Perin and Miguel Nacenta. My research interest span from `visualization co-design`, `cognitive augmentation`, to `physicalization`, and more generally, `interaction design`. I was a research intern at Télécom Paris with Prof. [Samuel Huron](https://perso.telecom-paristech.fr/shuron/#!index.md). Before that, I had an incredible MSc at [ilab](https://ilab.ucalgary.ca/), University of Calgary, under the instruction of Prof. Ehud Sharlin. 
+I am a PhD student in the [VIXI lab](https://vixi.cs.uvic.ca/), University of Victoria, under the supervision of Prof. Charles Perin and Miguel Nacenta. My research interest span from `visualization co-design`, `cognitive augmentation`, to `physicalization`, and more generally, `interaction design`. I was a research intern at Télécom Paris with Prof. [Samuel Huron](https://perso.telecom-paristech.fr/shuron/#!index.md). Before that, I had an incredible MSc at [ilab](https://ilab.ucalgary.ca/), University of Calgary, under the instruction of Prof. Ehud Sharlin.  
+
+I am currently undertaking a research internship at [AVIZ](https://aviz.fr/) Lab at INRIA and Université Paris Saclay, under the supervision of Prof. Petra Isenberg and Anastasia Bezerianos. 
 
 I am a hiker who likes exploring the nature, a designer who has radical ideas, a technician who enjoys fixing machines and software, a gamer who keeps trying despite repeated defeats, and a reader who loves history, sci-fi, fantasy, as well as classics.
 
